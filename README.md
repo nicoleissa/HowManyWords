@@ -1,5 +1,5 @@
 # HowManyWords
-> This Java program takes user input and finds all the unique words in it. The main class is the HowManyWords class; this class accepts user input.
+> This Java program takes user input and finds all the unique words in it. The main class is the HowManyWords class; this class accepts user input. This class contains one method and utilizes the HashSet data structure as well as an ArrayList. 
 
 ## Table of Contents
 * [General Info](#general-information)
